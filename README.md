@@ -1,1 +1,1 @@
-# Prueba2SistemasDistribuidos
+# En cada carpeta hay un readme
